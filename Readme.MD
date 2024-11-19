@@ -5,8 +5,7 @@ npm i
 npm run dev
 
 login as super admin 
-email: mr.sanjiv05@gmail.com
-password: $@tiy@0005
+
 
 add token to postman pre script
 
